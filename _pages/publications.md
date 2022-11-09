@@ -1,6 +1,6 @@
 ---
 layout: single 
-# permalink: /PUBLICATIONS/
+permalink: /PUBLICATIONS/
 author_profile: true
 title: PUBLICATIONS
 description: publications by categories in reversed chronological order. 
