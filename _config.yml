@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aditi Modi"
+title                    : "ADITI MODI"
 title_separator          : "-"
-name                     : &name "Aditi Modi"
+# name                     : &name "Aditi Modi"
 description              : &description "Climate Scientist"
 url                      : https://aditimodi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aditi Modi"
+  # name             : "Aditi Modi"
   avatar           : "profile.png"
-  bio              : "Personal Portfolio"
+  # avatar           : "image_2.png"
+  bio              : "#Tagline"
   location         : "Maharashtra, India"
   employer         : "MOES, GOI"
   pubmed           : 

@@ -27,6 +27,7 @@
 
     a {
       text-decoration: none;
+      text-transform: uppercase;
     }
   }
 }
@@ -45,9 +46,18 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-weight: lighter;
+  font-size: 1em;
+  font-family: $main-sans-serif;
+
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    padding-right: 2.2em;
+    font-weight: lighter;
+    font-size: 1.6em;
+    font-family:URW Palladio L; 
+    font-style: normal;
+    font-size-adjust: 0.2;
+    
   }
 }

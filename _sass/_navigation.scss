@@ -314,7 +314,7 @@
    ========================================================================== */
 
 .nav__list {
-  font-size: 1.25rem;
+  font-size: 1.25em;
 
   ul {
     margin-bottom: 1em;
@@ -351,6 +351,7 @@
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
+  // text-transform: uppercase;
 }
 
 .nav__sub-title {
@@ -385,6 +386,7 @@
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
+    // text-transform: uppercase;
   }
 }
 
@@ -430,3 +432,4 @@
     }
   }
 }
+
