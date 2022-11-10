@@ -276,28 +276,28 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-scholar:
-  style: apa
-  locale: en
+# scholar:
+#   style: apa
+#   locale: en
 
-  sort_by: none
-  order: descending
+#   sort_by: none
+#   order: descending
 
-  source: _bibliography/
-  bibliography: papers.bib
-  bibliography_template: bibtemplate 
+#   source: _bibliography/
+#   bibliography: papers.bib
+#   bibliography_template: bibtemplate 
 
-  replace_strings: true
-  join_strings:    true
+#   replace_strings: true
+#   join_strings:    true
 
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
+#   details_dir:    bibliography
+#   details_layout: bibtex.html
+#   details_link:   Details
 
-  repository: /publications
-  repository_file_delimiter: "." 
+#   repository: /publications
+#   repository_file_delimiter: "." 
   
-  query: "@*"
+#   query: "@*"
  
 # Archives
 #  Type

@@ -1,13 +1,13 @@
 current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/my_website/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.1/ext/thin_parser
-/opt/homebrew/opt/ruby/bin/ruby -I /opt/homebrew/Cellar/ruby/3.1.2_1/lib/ruby/3.1.0 -r ./siteconf20221110-52586-bhinjg.rb extconf.rb
+/opt/homebrew/opt/ruby/bin/ruby -I /opt/homebrew/lib/ruby/site_ruby/3.1.0 extconf.rb
 checking for main() in -lc... yes
 creating Makefile
 
 current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/my_website/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.1/ext/thin_parser
-make DESTDIR\= clean
+make DESTDIR\= sitearchdir\=./.gem.20221110-73640-hl5vt8 sitelibdir\=./.gem.20221110-73640-hl5vt8 clean
 
 current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/my_website/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.1/ext/thin_parser
-make DESTDIR\=
+make DESTDIR\= sitearchdir\=./.gem.20221110-73640-hl5vt8 sitelibdir\=./.gem.20221110-73640-hl5vt8
 compiling parser.c
 parser.c:31:18: warning: unused variable 'http_parser_en_main' [-Wunused-const-variable]
 static const int http_parser_en_main = 1;
@@ -17,5 +17,5 @@ compiling thin.c
 linking shared-object thin_parser.bundle
 
 current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/my_website/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.1/ext/thin_parser
-make DESTDIR\= install
-/usr/bin/install -c -m 0755 thin_parser.bundle ./.gem.20221110-52586-6lqif7
+make DESTDIR\= sitearchdir\=./.gem.20221110-73640-hl5vt8 sitelibdir\=./.gem.20221110-73640-hl5vt8 install
+/usr/bin/install -c -m 0755 thin_parser.bundle ./.gem.20221110-73640-hl5vt8

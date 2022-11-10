@@ -18,8 +18,8 @@ Gem::Specification.new do |s|
   s.homepage = "https://bundler.io".freeze
   s.licenses = ["MIT".freeze]
   s.required_ruby_version = Gem::Requirement.new(">= 2.3.0".freeze)
-  s.rubygems_version = "3.3.11".freeze
+  s.rubygems_version = "3.3.25".freeze
   s.summary = "The best way to manage your application's dependencies".freeze
 
-  s.installed_by_version = "3.3.11" if s.respond_to? :installed_by_version
+  s.installed_by_version = "3.3.25" if s.respond_to? :installed_by_version
 end
