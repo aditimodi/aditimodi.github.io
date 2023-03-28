@@ -1,3 +1,10 @@
+---
+layout: single 
+title: "PUBLICATIONS"
+permalink: /PUBLICATIONS/
+author_profile: true
+---
+
 #### **Peer-reviewed articles**
 <br>
 **Modi A.**, Roxy M. K., Ghosh S., 2022, Gap-Filling of Ocean Color Over the Tropical Indian Ocean Using Monte-Carlo Method, https://doi.org/10.1038/s41598-022-22087-2, Scientific Reports. 
