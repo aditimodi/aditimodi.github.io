@@ -3,7 +3,6 @@ layout: single
 title: "PUBLICATIONS"
 permalink: /PUBLICATIONS/
 author_profile: true
-description: publications by categories in reversed chronological order. 
 ---
 
 {% include_relative publi.md %}
