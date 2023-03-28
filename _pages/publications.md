@@ -7,7 +7,7 @@ description: publications by categories in reversed chronological order.
 toc: true 
 ---
 
-<!-- {% include_relative publi.md %} -->
+{% include_relative publi.md %}
 
 <br><br>
 <p style="text-align:center"> <b> Academic Profiles </b> <br> 

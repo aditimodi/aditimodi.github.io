@@ -1,0 +1,19 @@
+current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/website_portfolio/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby -I /opt/homebrew/Cellar/ruby/3.2.1/lib/ruby/3.2.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/website_portfolio/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230328-29017-yzzg2p sitelibdir\=./.gem.20230328-29017-yzzg2p clean
+
+current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/website_portfolio/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230328-29017-yzzg2p sitelibdir\=./.gem.20230328-29017-yzzg2p
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/website_portfolio/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230328-29017-yzzg2p sitelibdir\=./.gem.20230328-29017-yzzg2p install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230328-29017-yzzg2p
+
+current directory: /Users/aditi/Documents/Areas_of_responsibility/Scientific_Portfolio/website_portfolio/Website_final/aditimodi.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230328-29017-yzzg2p sitelibdir\=./.gem.20230328-29017-yzzg2p clean
