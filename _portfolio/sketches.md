@@ -26,9 +26,13 @@ collection: portfolio
 
 ![Eyes](/images/sketches/eyes.PNG)
 
+![Beloved](/images/sketches/radha_krishn.JPG)
+
 ### Reality
 
 ![Watching the world in lockdown](/images/sketches/seeing_through_the_glasses_lockdown.jpeg)
+
+![Mirror Image](/images/sketches/mirror_image.JPG)
 
 ### Mood
 
