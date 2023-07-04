@@ -13,10 +13,10 @@ Gem::Specification.new do |s|
   s.email = ["sylvester@keil.or.at".freeze]
   s.homepage = "http://inukshuk.github.com/bibtex-ruby".freeze
   s.licenses = ["GPL-3.0".freeze]
-  s.rubygems_version = "3.3.25".freeze
+  s.rubygems_version = "3.3.26".freeze
   s.summary = "A BibTeX parser, converter and API for Ruby.".freeze
 
-  s.installed_by_version = "3.3.25" if s.respond_to? :installed_by_version
+  s.installed_by_version = "3.3.26" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
