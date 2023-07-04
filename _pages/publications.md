@@ -9,7 +9,7 @@ toc: true
 
 #### **Peer-reviewed articles**
 <br>
-*Modi A.**, Roxy M. K., Ghosh S., 2022, Gap-Filling of Ocean Color Over the Tropical Indian Ocean Using Monte-Carlo Method, https://doi.org/10.1038/s41598-022-22087-2, Scientific Reports. 
+**Modi A.**, Roxy M. K., Ghosh S., 2022, Gap-Filling of Ocean Color Over the Tropical Indian Ocean Using Monte-Carlo Method, https://doi.org/10.1038/s41598-022-22087-2, Scientific Reports. 
 
 Sandeep, N., Swapna, P., Krishnan, R., Farneti, R., Kucharski, F., **Modi, A.**, et al. (2022). On the weakening association between South Asian Monsoon and Atlantic Multidecadal Oscillation. Climate Dynamics. https://doi.org/10.1007/s00382-022-06224-1, Published.
 
