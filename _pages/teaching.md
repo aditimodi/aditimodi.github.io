@@ -9,4 +9,3 @@ author_profile: true
 
 {% include_relative teach.md %}
 
-Full Syllabus

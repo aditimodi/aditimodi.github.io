@@ -1,3 +1,25 @@
+- A. Modi, Roxy M.K., S. Ghosh, "Impacts of Climate Change on Marine Primary
+Productivity in the Tropical Indian Ocean: Evidence from Satellite Observations and
+Earth System Models", WCRP Open Science Conference 2023 Kigali, Rwanda, Africa,
+21-28th October 2023.
+
+- A. Modi, Roxy M.K., S. Ghosh, "Improved Estimation of Ocean Ecosystem Indicators
+Using Monte-Carlo Gap-Filling in Cloud-Prone Indian Ocean Color Data", WCRP
+Open Science Conference 2023 Kigali, Rwanda, Africa, 21-28th October 2023.
+
+-  A. Modi, Roxy M.K., S. Ghosh, "Investigating the Impact of Climate Change on Phytoplankton Phenology in the Tropical Indian Ocean", Trevor Platt Science Symposium on "Trends, Reflections, Evolution, and Visions in Ocean Research", Plymouth Marine Laboratory, Plymouth, UK, 9-11 August 2023
+
+- A. Modi, Roxy M.K., S. Ghosh, "Revealing the Colors of the Indian Ocean: Filling
+Gaps in Ocean Color Data and Quantifying Climate Change Impact on Marine Primary
+Productivity", National Science Workshop on Indian Ocean Biogeochemistry (NSWIOBGC),
+CMLRE Kochi, 26-28 April, 2023.
+
+- A. Modi, Roxy M.K., S. Ghosh, "Understanding the Biophysical Interactions in
+the Tropical Indian Ocean in a Changing Climate", 6th IIOE-2 Steering Committee
+meetings and IORP-18/IRF-17/IOGOOS-18/SIBER-13 annual review meetings, International
+Indian Ocean Science Conference 2023 (IIOSC 2023), Perth, Australia,
+February 6-10, 2023.
+
 - A. Modi and Roxy M.K., ”Difference in the Past Trends and Future Projections of Marine Primary Productivity in between the CMIP6 and CMIP5 Models”, AGU Fall Meeting, 16 December 2021
 
 - A. Modi, Roxy M.K., S. Ghosh, ”Addressing the uncertainty in estimation of Ecological indicators of the marine ecosystem”, AGU Fall Meeting, 13 December 2021

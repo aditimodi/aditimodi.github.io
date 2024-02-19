@@ -68,33 +68,34 @@ Python, Shell Scripting, Matlab, NCL, Ferret, LATEX, Fortran, JavaScript, HTML, 
 
 #### Publications
 <br>
-Listed in ....
+Listed in [Publications](publications.md)
 
 #### Awards/Recognitions
 <br>
 2017 Silver Jubilee Best Paper Award, at IITM Pune, India
 
-2013 GATE, Qualified with an all India GATE score of 579 and an all India Rank of 570 India
+2013 GATE, All India GATE score: 579, All India Rank: 570 
 
-2009‑13 Merit Scholarship, awarded by the University for best Student of the Civil Engineering batch Lucknow, India
+2009‑13 Merit Scholarship, awarded by Dr A.P.J Abdul kalam University, Lucknow, India
 
-2009‑13 LIC Gold Jubilee Scholarship, awarded by LIC, India at State Level for a bright academic background Uttar Pradesh, India
+2009‑13 LIC Golden Jubilee Scholarship, awarded by LIC, India 
 
 #### Community Services 
 <br>
 
 ##### Working Groups <br>
-Council Member of Ocean Society of India‑Pune Chapter for the term 2021‑2023  <br>
-Recreation Committee Member for the term 2021‑2023 <br>
-Core Committee team of International Indian Ocean Expedition‑2 ECSS for 2021‑2030
+Member of Committee of National Decade Coordination Committee (NDCC),
+Ministry of Earth Sciences (MoES) (2024-Present)
+Working Group 6 of International Indian Ocean Expidition Phase 2 (IIOE-2) themed, Unique geological, physical, biogeochemical and ecological characteristics of the Indian Ocean during the 6th Steering committee meeting of
+IIOE-2 (2023-Present)
 
 ##### Reviewing Activities <br>
 Reviewer for the Nature Climate Change, JGR Oceans, Progress in Oceanography, Ocean Sciences
 
 ##### Memberships <br>
-AGU Membership during Jan‑Dec 2021 <br>
-Member of The Oceanography Society (TOS, since 2021) <br>
-Life Member of Ocean Society of India (since 2017)
+Council Member of Ocean Society of India‑Pune Chapter, 2021‑Present 
+Vice-Chair of International Indian Ocean Expedition‑2 Early Career Scientist Network, 2022-Present
+Ocean Society of India (2017-Present)
 
 <!-- <iframe src="/files/Aditi_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 You can download a PDF copy of my CV [here](../files/Aditi_CV.pdf).

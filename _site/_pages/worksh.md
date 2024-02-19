@@ -1,3 +1,18 @@
+- Brainstorming meeting to discuss Future Road Map for a broad spectrum of scientific bodies involved in the Indian Ocean research including IOGOOS, IIOE-2, IORP, IRF, SIBER, IOCINDIO, SCOR and IOC hosted at INCOIS, Hyderabad during 28-30 November 2023.
+
+- Annual Monsoon Workshop and National Symposium on Challenges in climate services for health sector in the warming environment, organized by IMSP at IITM Pune during 28th-30th March 2023.
+
+- ComSciCon Chapter Workshop at the University of Virginia (ComSciCon-UVA 2021) during August 16-18, 2022 (online).
+
+- Virtual OceanHackWeek hosted by the Bigelow Laboratory for Ocean
+Sciences and the University of Washington during August 3-6, 2021. 
+
+- Ocean Carbon and Biogeochemsitry (OCB) Summer
+Workshop 2021 during June 4 - June 24, 2021 (online).
+
+- Participated in the Global Ocean Biogeochemistry Array (GO-BGC) workshop virtually as
+an initiative by G7 Future of the Seas and Oceans Initiative held during May 4 – June 1, 2021.
+
 - 7th National Conference of the Ocean Society of India 2021 (OSICON) held virtually during 28‑30 August, 2021
 
 - ComSciCon at UVA 2021 Virtual Workshop at the University of Virginia during August 16‑18, 2021
