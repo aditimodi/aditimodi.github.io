@@ -14,6 +14,7 @@ author_profile: true
 
 #### Work/Research Experience
 <br>
+
 Scientist, Centre for Climate Change Research (CCCR), Indian Institute of Tropical Meteorology, MOES Pune, India <br>
 Oct 2015 – Present
 
@@ -84,8 +85,10 @@ Listed in [Publications](publications.md)
 <br>
 
 ##### Working Groups <br>
-Member of Committee of National Decade Coordination Committee (NDCC),
+Member of Committee of National Decade Coordination Committee (NDCC)
+
 Ministry of Earth Sciences (MoES) (2024-Present)
+
 Working Group 6 of International Indian Ocean Expidition Phase 2 (IIOE-2) themed, Unique geological, physical, biogeochemical and ecological characteristics of the Indian Ocean during the 6th Steering committee meeting of
 IIOE-2 (2023-Present)
 
