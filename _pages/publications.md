@@ -22,7 +22,7 @@ Krishnan, R., Swapna, P., Choudhury, A. D., Narayansetti, S., Prajeesh, A. G., S
 #### **Books/Monographs/Reports** 
 <br>
 
-Roxy, M.K., Saranya, J.S., **Modi A.**, Anusree, A., Cai, W., Resplandy, L., Vialard, J., & Frölicher, T.L. (2024). Chapter 20: Future projections for the tropical Indian Ocean. In Ummenhofer, C.C., & Hood, R.R. (Eds.), The Indian Ocean and its role in the global climate system. Elsevier. doi:10.1016/B978-0-12-822698-8.00004-4.
+Roxy, M.K., Saranya, J.S., **Modi, A.**, Anusree, A., Cai, W., Resplandy, L., Vialard, J., & Frölicher, T.L. (2024). Chapter 20: Future projections for the tropical Indian Ocean. In Ummenhofer, C.C., & Hood, R.R. (Eds.), The Indian Ocean and its role in the global climate system. Elsevier, pp.469–482, doi: 10.1016/B978-0-12-822698-8.00004-4.
 
 **Modi, A.**, & Roxy, M. K. (2023). Past Trends and Future Projections of Marine Primary Productivity in the Tropical Indian Ocean. In S. C. Tripathy & A. Singh (Eds.), Dynamics of Planktonic Primary Productivity in the Indian Ocean (pp. 191?206). Cham: Springer International Publishing. https://doi.org/10.1007/978-3-031-34467-1_9.
 
