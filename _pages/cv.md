@@ -9,9 +9,6 @@ author_profile: true
 [Scientist](https://www.tropmet.res.in/207-Aditi%20%20Modi-scientist_detail), Indian Institute of Tropical Meteorology, Pune, India <br>
 [2013 - Present]
 
-[PhD scholar](https://www.climate.iitb.ac.in/en/student-type/aditi-modi), Indian Institute of Technology Mumbai <br>
-[2018 - Present]
-
 #### Work/Research Experience
 <br>
 
@@ -38,10 +35,11 @@ Student Co-Advisor, Indian Institute of Tropical Meteorology, Pune India <br>
 
 #### Academic Qualifications 
 <br>
-PhD in IDP Climate Studies,External Student <br>
+PhD in [IDP Climate Studies](https://www.climate.iitb.ac.in/?page_id=1379) <br>
 Indian Institute of Technology, Bombay, India
 Supervisor(s): Prof. Subimal Ghosh and Dr. Roxy Mathew Koll <br>
-July 2018 - Present
+PhD Title: [Understanding Biophysical Interactions Over the Tropical Indian Ocean in a Changing Climate](https://github.com/aditimodi/Docs/blob/main/184407001_Thesis_Apr2024_CM_signed_compressed.pdf) <br>
+[July 2018 - Apr 2024] 
 
 Induction Training in Ocean and Atmospheric Sciences <br> 
 Indian Institute of Tropical Meteorology Pune, India <br>
@@ -85,20 +83,18 @@ Listed in [Publications](publications.md)
 <br>
 
 ##### Working Groups <br>
-Member of Committee of National Decade Coordination Committee (NDCC)
-
-Ministry of Earth Sciences (MoES) (2024-Present)
-
-Working Group 6 of International Indian Ocean Expidition Phase 2 (IIOE-2) themed, Unique geological, physical, biogeochemical and ecological characteristics of the Indian Ocean during the 6th Steering committee meeting of
-IIOE-2 (2023-Present)
+Member of Committee of National Decade Coordination Committee (NDCC) <br>
+Ministry of Earth Sciences (MoES) (2024-Present) <br>
+Working Group 6 of International Indian Ocean Expidition Phase 2 (IIOE-2): Unique geological, physical, biogeochemical and ecological characteristics of the Indian Ocean 
 
 ##### Reviewing Activities <br>
 Reviewer for the Nature Climate Change, JGR Oceans, Progress in Oceanography, Ocean Sciences
 
 ##### Memberships <br>
-Council Member of Ocean Society of India‑Pune Chapter, 2021‑Present 
-Vice-Chair of International Indian Ocean Expedition‑2 Early Career Scientist Network, 2022-Present
+Member of National Decade Coordination Committee (NDCC) by Ministry of Earth Sciences (MoES) (2024-Present) <br>
+Council Member of Ocean Society of India‑Pune Chapter, 2021‑Present <br>
+Co-Chair of International Indian Ocean Expedition‑2 Early Career Scientist Network, 2022-Present <br>
 Ocean Society of India (2017-Present)
 
 <!-- <iframe src="/files/Aditi_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
-You can download a PDF copy of my CV [here](../files/Aditi_CV.pdf).
+<!-- You can download a PDF copy of my CV [here](../files/Aditi_CV.pdf). -->
