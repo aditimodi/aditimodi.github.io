@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a climate scientist at the *Centre for Climate Change Research, Indian Institute of Tropical Meteorology, Pune, India*. I explore **biophysical interactions in tropical oceans**, combining statistical methods and machine learning. I'm also part of the team developing the **IITM earth system model (IITM-ESM) for CMIP7**. Additionally, I serve as an adjunct faculty member for **Advanced physical oceanography and ocean-atmosphere Interactions** at the WMO's Regional Meteorological Training Centre in India. I have done my engineering (B.Tech) in *Civil Engineering* from *A.P.J. Abdul Kalam University, Lucknow* in India.
+I am a climate scientist at the *Indian Institute of Tropical Meteorology, Pune, India*. I hold a Ph.D. in Climate Sciences from IIT Bombay. My research focuses on understanding how climate change affects marine ecosystems in tropical oceans. I am a key contributor to the development of the **IITM Earth System Model (IITM-ESM) for CMIP7**—the first climate model from South Asia.
 
-Apart from work, I indulge in several creative tasks, the most consistent ones among them would be reading (on diverse subjects), scientific communication and travel.
+In addition to my research, I have served as an adjunct faculty member for **Advanced Physical Oceanography and Ocean-Atmosphere Interactions** at the WMO's Regional Meteorological Training Centre in India. Presently, I lead the Early Career Scientist Network of the International Indian Ocean Expedition Phase 2, fostering collaboration among young scientists from Indian Ocean rim nations to study and safeguard the Indian Ocean.
+
+Outside of my professional work, I enjoy reading about different topics, communicating science, and traveling.
 
 <!-- ![type:video](../files/career_timeline.mp4) -->
 ![My career timeline](../files/career_timeline.gif)
