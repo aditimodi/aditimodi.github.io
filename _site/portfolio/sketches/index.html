@@ -290,38 +290,24 @@
   .photo-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 20px; /* Add space between items */
+    justify-content: space-between;
   }
+
   .photo-grid-item {
-    flex: 1 1 calc(33.333% - 20px);
+    flex: 1 1 calc(33.333% - 20px); /* Adjust width to account for spacing */
     box-sizing: border-box;
-    position: relative;
   }
-  .photo-grid-item::before {
-    content: "";
-    display: block;
-    padding-top: 100%; /* Maintain a square aspect ratio */
-  }
-  .photo-grid-item a {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+
   .photo-grid-item img {
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
+    width: 100%;
     height: auto;
     display: block;
   }
+
   .photo-caption {
     text-align: center;
-    font-size: 0.9em;
+    font-size: 0.67em;
     margin-top: 5px;
   }
 </style>
@@ -338,10 +324,10 @@
     <div class="photo-caption">Buddha</div>
   </div>
   <div class="photo-grid-item">
-    <a href="/images/sketches/candle.jpg" target="_blank">
-      <img src="/images/sketches/candle.jpg" alt="Flare" />
+    <a href="/images/sketches/buddha_half_face.JPG" target="_blank">
+      <img src="/images/sketches/buddha_half_face.JPG" alt="Half-face" />
     </a>
-    <div class="photo-caption">Flare</div>
+    <div class="photo-caption">Half-faced</div>
   </div>
   <div class="photo-grid-item">
     <a href="/images/sketches/sleeping_beauty.jpeg" target="_blank">
@@ -350,10 +336,10 @@
     <div class="photo-caption">Sleeping Beauty</div>
   </div>
   <div class="photo-grid-item">
-    <a href="/images/sketches/buddha_half_face.JPG" target="_blank">
-      <img src="/images/sketches/buddha_half_face.JPG" alt="Half-face" />
+      <a href="/images/sketches/candle.jpg" target="_blank">
+      <img src="/images/sketches/candle.jpg" alt="Flare" />
     </a>
-    <div class="photo-caption">Half-face</div>
+    <div class="photo-caption">Flare</div>
   </div>
 </div>
 
@@ -367,8 +353,8 @@
     <div class="photo-caption">Single line tattoo</div>
   </div>
   <div class="photo-grid-item">
-    <a href="/images/sketches/eyes.PNG" target="_blank">
-      <img src="/images/sketches/eyes.PNG" alt="Eyes" />
+    <a href="/images/sketches/eyes.jpeg" target="_blank">
+      <img src="/images/sketches/eyes.jpeg" alt="Eyes" />
     </a>
     <div class="photo-caption">Eyes</div>
   </div>
@@ -387,13 +373,13 @@
     <a href="/images/sketches/seeing_through_the_glasses_lockdown.jpeg" target="_blank">
       <img src="/images/sketches/seeing_through_the_glasses_lockdown.jpeg" alt="Watching the world in lockdown" />
     </a>
-    <div class="photo-caption">Watching the world in lockdown</div>
+    <div class="photo-caption">World through a glass window: lockdown</div>
   </div>
   <div class="photo-grid-item">
     <a href="/images/sketches/mirror_image.JPG" target="_blank">
       <img src="/images/sketches/mirror_image.JPG" alt="Mirror Image" />
     </a>
-    <div class="photo-caption">Mirror Image</div>
+    <div class="photo-caption">Mirror Images</div>
   </div>
 </div>
 
@@ -422,6 +408,12 @@
       <img src="/images/sketches/soft_house.jpeg" alt="House" />
     </a>
     <div class="photo-caption">House</div>
+  </div>
+  <div class="photo-grid-item">
+    <a href="/images/sketches/house_in_pattern.jpeg" target="_blank">
+      <img src="/images/sketches/house_in_pattern.jpeg" alt="House" />
+    </a>
+    <div class="photo-caption">House in patterns</div>
   </div>
 </div>
 
@@ -456,7 +448,7 @@
 
   <nav class="pagination">
     
-      <a href="http://localhost:4000/portfolio/photography/" class="pagination--pager" title="PHOTOGRAPHY
+      <a href="http://localhost:4000/portfolio/pottery/" class="pagination--pager" title="POTTERY
 ">Previous</a>
     
     

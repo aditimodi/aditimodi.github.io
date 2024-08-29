@@ -1,6 +1,6 @@
 ---
 title: "TRAVEL"
-excerpt: "Travel moods<br/><img src='../images/travel/travel_2.jpeg' width='300' height='100'>"
+excerpt: "Travel journey<br/><img src='../images/travel/travel_2.jpeg' width='300' height='100'>"
 collection: portfolio
 ---
 
