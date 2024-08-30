@@ -79,8 +79,8 @@ collection: portfolio
     <div class="photo-caption">Eyes</div>
   </div>
   <div class="photo-grid-item">
-    <a href="/images/sketches/radha_krishn.JPG" target="_blank">
-      <img src="/images/sketches/radha_krishn.JPG" alt="Beloved">
+    <a href="/images/sketches/radha_krishn.jpg" target="_blank">
+      <img src="/images/sketches/radha_krishn.jpg" alt="Beloved">
     </a>
     <div class="photo-caption">Beloved</div>
   </div>
@@ -96,8 +96,8 @@ collection: portfolio
     <div class="photo-caption">World through a glass window: lockdown</div>
   </div>
   <div class="photo-grid-item">
-    <a href="/images/sketches/mirror_image.JPG" target="_blank">
-      <img src="/images/sketches/mirror_image.JPG" alt="Mirror Image">
+    <a href="/images/sketches/mirror_image.jpg" target="_blank">
+      <img src="/images/sketches/mirror_image.jpg" alt="Mirror Image">
     </a>
     <div class="photo-caption">Mirror Images</div>
   </div>
